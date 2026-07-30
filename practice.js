@@ -1,0 +1,55 @@
+// console.log(9);
+// console.log(3);
+// let a=10;
+// let b=20;
+// console.log(a+b);
+// console.log(a-b);
+// console.log(a*2);
+// console.log(a**2);
+// let age=25;
+// if(age >= 18){
+//     console.log("you can vote");
+// // }
+// let temparature=32;
+// if(temparature >= 30){
+// console.log("its hot today");
+// }
+// console.log("hello javascript");
+// console.log("my name is Alex");
+// console.log("I am excited to become a Web Developer.");
+// let num1=25;
+// let num2=10;
+// console.log("Addition:", num1 + num2);
+// console.log("substraction:", num1 - num2);
+// console.log("multiplication:", num1 * num2);
+// console.log("division:", num1 / num2);
+// console.log("modulus:", num1 % num2);
+// let studentName="Alex";
+// let age=20;
+// let country="Bangladesh";
+// let isStudent =true;
+// console.log("studen name:",studentName);
+// console.log("age:", age);
+// console.log("country:",country);
+// console.log("Is Student:",isStudent);
+let a =100;
+let b ="programming";
+let c =true;
+let d =false;
+let e =3.1416;
+// console.log("a:", typeof a);
+// console.log("b:", typeof b);
+// console.log("c:", typeof c);
+// console.log("d:", typeof d);
+// // console.log("e:", typeof e);
+// let name="Alex";
+// let age=20;
+// let favouriteFood="pizza";
+// let favouriteLanguage="Javascript";
+// let lovesCoding=true;
+// console.log("Hello!");
+// console.log("My name is " + name+ ".");
+// console.log("I am " + age + " years old.");
+// console.log("My favourite food is " + favouriteFood + ".");
+// console.log("My favourite programming language is " + favouriteLanguage + ".");
+// console.log("I love coding:", lovesCoding);
